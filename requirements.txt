@@ -11,3 +11,4 @@ pandas
 python-weather
 ipykernel
 geopy
+jinja2
