@@ -10,3 +10,4 @@ azure-identity
 pandas
 python-weather
 ipykernel
+geopy
